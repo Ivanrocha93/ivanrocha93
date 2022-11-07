@@ -1,11 +1,10 @@
-## Olá, eu sou o Ivan Rocha, Analista de Qualidade e Teste de Software(Q.A) | Hello, I'm Ivan Rocha, Quality Analyst and Software Tester(Q.A)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Ivan+Dantas+Rocha;Hello,+my+name+is+Ivan+Dantas+Rocha)](https://git.io/typing-svg)
 
 
 <div align="center">
   <a href="https://github.com/Ivanrocha93">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanrocha93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanrocha93&hide=html&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ivanrocha93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanrocha93&hide=html&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
